@@ -1,0 +1,16 @@
+.page{
+    background-color: rgb(75, 75, 138);
+    font-size: 20px;
+}
+p{
+    position: relative;
+     bottom: 80px;
+}
+#I2{
+    margin-top:-210px; 
+    position: relative;
+    float:right;
+}
+#list{
+    list-style: none; 
+}

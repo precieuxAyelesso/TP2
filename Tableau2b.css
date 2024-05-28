@@ -1,0 +1,28 @@
+
+table{
+    border:solid 5px ;
+    margin: 150px 150px;
+}
+caption{
+ position: absolute;
+ bottom: 510px;   
+ text-align: center;
+}
+#IG{
+    background-color: red;
+    color: blue;
+}
+#GRH{
+    background-color: yellow;
+}
+#T{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+td{
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    border: solid;   
+}

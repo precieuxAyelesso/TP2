@@ -1,0 +1,33 @@
+
+#tete img{
+   width: 150px;
+   height: 150px;
+}
+#ENEAM{
+    position: relative;
+    float: right;
+    margin-top: -280px
+    
+}
+#milieu{
+    position: relative;
+    bottom: 80px;
+
+}
+#Maphoto{
+    width: 150px;
+    height: 150px;
+}
+#cursus{
+    position: relative;
+    top: 100px;
+} 
+li{
+    list-style: none;
+}
+#decrire{
+    text-align: center;
+}
+
+
+    
